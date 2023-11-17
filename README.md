@@ -2,7 +2,7 @@
 #### Front End Devoloper
 I am currently new in this sector and doing my best to find a place in this sector
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: SQL/ Python / JS / HTML / CSS
 
 - 🌱 I’m currently learning front end developing 
 
